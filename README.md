@@ -11,5 +11,4 @@
 *What I used for Mobile Automation :*
 - TestNG with Cucumber framework
 - Created it with Maven Project
-- Used POM design Pattern
 - Those are 2 assertions
